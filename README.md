@@ -4,7 +4,8 @@
 
 <br/>
 
-MCWOAT is my initiation in learning Kubernetes and its intricaties.
+MCWOAT is my initiation in learning Kubernetes and its intricacies. It's a simple Vite website that displays users with a color card. An express server communicates with a Go server that keeps a list of all the users and the color of their card. The real beauty comes from integrating the Go server and the express/vite front-end in different pods and make them communicate with services.
+
 
 ## Getting Started
 
